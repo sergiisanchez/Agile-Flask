@@ -28,7 +28,7 @@ app = Flask(__name__)
 
 
 app.config['MONGO_DBNAME'] = 'agilebd'
-app.config['MONGO_URI'] = 'mongodb://sergi:19contreras93@ds215633.mlab.com:15633/agilebd'
+app.config['MONGO_URI'] = 'mongodb://sergi1:contra123@ds215633.mlab.com:15633/agilebd'
 
 
 #Local Database:
